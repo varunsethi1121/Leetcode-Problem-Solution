@@ -1,5 +1,8 @@
 # Leetcode-Problem-Solution
+![leetcode (2)](https://github.com/user-attachments/assets/5f545d33-54de-426d-bb72-c2fda9183e2d)
+
 <br>
+
 This repository contains solutions to various LeetCode problems, organized by topics and difficulty levels. Each solution includes well-commented code, explanations, and optimized approaches in Java programming language.
 <br>
 📂 Structured Organization - Problems categorized by topic (e.g., Arrays, Strings, Dynamic Programming) and difficulty (Easy, Medium, Hard).
